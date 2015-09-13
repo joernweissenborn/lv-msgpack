@@ -145,6 +145,15 @@
 			<Property Name="NI.ClassItem.State" Type="Int">1082401300</Property>
 		</Item>
 	</Item>
+	<Item Name="Free.vi" Type="VI" URL="../Free.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#Q!!!!"!!%!!!!$E!Q`````Q2S:8.U!!"#1(!!(A!!(2N.=W&gt;197.L2'6T:8*J97RJ?G6S,GRW9WRB=X-!'UVT:V"B9WN%:8.F=GFB&lt;'F[:8)O&lt;(:D&lt;'&amp;T=Q"5!0!!$!!!!!!!!!!"!!!!!!!!!!!!!!!!!!!!!A-!!(A!!!!!!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!%!!!!!!"!!-!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+	</Item>
 	<Item Name="GePositiveFixInt.vi" Type="VI" URL="../GePositiveFixInt.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;4!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!V!"1!'4H6N9G6S!!!_1(!!(A!!(2N.=W&gt;197.L2'6T:8*J97RJ?G6S,GRW9WRB=X-!&amp;UVT:V"B9WN%:8.F=GFB&lt;'F[:8)A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!0E"Q!"Y!!"U&lt;48.H5'&amp;D;U2F=W6S;7&amp;M;8JF=CZM&gt;G.M98.T!":.=W&gt;197.L2'6T:8*J97RJ?G6S)'FO!!"B!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!1!#!-!!(A!!!U)!!!!!!!!#1!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!*!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
