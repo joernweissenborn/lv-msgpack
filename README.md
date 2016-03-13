@@ -1,4 +1,4 @@
-MsgPack4Labview
+lv-messagepack
 ===============
 
 A small, pure LabView implementation of http://msgpack.org/
