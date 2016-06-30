@@ -1,10 +1,10 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-09-13 15:24:26" Modified_Date="2016-03-13 07:07:03" Creator="joern" Comments="" ID="3a6efd449e846a3a34b34a5330fe92c9">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-09-13 15:24:26" Modified_Date="2016-06-20 09:29:49" Creator="joern" Comments="" ID="fa3a492beae9f2c81fbde8d09435a043">
   <Library_General_Settings>
-    <Package_File_Name>MsgPack4Labview</Package_File_Name>
-    <Library_Version>1.0.0.2</Library_Version>
+    <Package_File_Name>lv_msgpack</Package_File_Name>
+    <Library_Version>1.0.0.6</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
-    <Library_Output_Folder>..\temp\buildmsgpack\S</Library_Output_Folder>
+    <Library_Output_Folder>..\temp</Library_Output_Folder>
     <Company_Name>Joern Weissenborn</Company_Name>
     <Library_Summary/>
     <Library_License>lGPLv3</Library_License>
@@ -41,7 +41,7 @@
       <Toolkit_VIs>
         <LLB>false</LLB>
         <Preserve_Hierarchy>true</Preserve_Hierarchy>
-        <Path>&lt;user.lib&gt;\lv-msgpack</Path>
+        <Path>&lt;vi.lib&gt;\addons\lv-msgpack</Path>
       </Toolkit_VIs>
       <Examples>
         <LLB>false</LLB>
@@ -250,7 +250,7 @@
         <Path>MsgPack Serializer\Flatten To MessagePack.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>86702F74314AA14D5D1BC8F45DE70334</GUID>
+      <GUID>CCD1D6E725FD0FE25AD8879A9D269E2B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -283,20 +283,6 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>MsgPack Deserializer\Free.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>GePositiveFixInt.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>MsgPack Deserializer\GePositiveFixInt.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -607,7 +593,7 @@
         <Path>MsgPack Deserializer\ReadType.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0B77A7AC0E79E99AA97EBF4FD2475240</GUID>
+      <GUID>07D78C4D4015F9E9B88F6D8D1D9C29A9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -992,7 +978,7 @@
         <Path>MsgPack Serializer\PutUInt8.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E25566BD9A7583B213CC0D9AF83F4788</GUID>
+      <GUID>42E6CDAEEBDB65325A00C454A7B87DE5</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
